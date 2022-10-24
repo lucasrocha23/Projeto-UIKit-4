@@ -1,3 +1,5 @@
+<div align ="justify">
+
 #  Projeto-UIKit-4
 
 Esse é um jogo simples, feito com para aplicar os estudos de UIKit. Trata-se de um jogo
